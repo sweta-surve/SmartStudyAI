@@ -89,7 +89,7 @@ Core application features implemented and tested.
 
 
 ### AI RECOMMENDATION
-![AI RECOMMENDATION](screenshots/AI RECOMMENDATION.png)
+![AI RECOMMENDATION](screenshots/AI_RECOMMENDATION.png)
 
 
 ## Author
