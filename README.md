@@ -80,16 +80,16 @@ Core application features implemented and tested.
 ## Application Screenshots
 
 ### Dashboard
-![Dashboard](screenshot/dashboard.png)
+![Dashboard](screenshots/dashboard.png)
 
 
 
 ### Study Planner
-![Study Planner](screenshot/STUDY_PLANNER.png)
+![Study Planner](screenshots/STUDY_PLANNER.png)
 
 
 ### AI RECOMMENDATION
-![AI RECOMMENDATION](screenshot/AI RECOMMENDATION.png)
+![AI RECOMMENDATION](screenshots/AI RECOMMENDATION.png)
 
 
 ## Author
