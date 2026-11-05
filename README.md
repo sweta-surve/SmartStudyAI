@@ -77,6 +77,21 @@ The application uses a trained Linear Regression model to estimate student exam 
 
 Core application features implemented and tested.
 
+## Application Screenshots
+
+### Dashboard
+![Dashboard](screenshot/dashboard.png)
+
+
+
+### Study Planner
+![Study Planner](screenshot/STUDY_PLANNER.png)
+
+
+### AI RECOMMENDATION
+![AI RECOMMENDATION](screenshot/AI RECOMMENDATION.png)
+
+
 ## Author
 
 Sweta Rakesh Surve
