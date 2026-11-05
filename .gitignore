@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.streamlit/secrets.toml
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Local database
+smartstudy.db
+*.db
